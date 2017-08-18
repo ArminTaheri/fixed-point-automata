@@ -1,10 +1,7 @@
-# Simple ES6 Starter
-This repository is a simple directory structure for writing ES6 projects
-and building them with webpack using babel-loader.
+# Fixed point automata
+Exploring how to use functions as automata by running them using the Z combinator.
 
 # How To:
-
-Edit `package.json` to match your project's description.
 
 `npm install`
 
